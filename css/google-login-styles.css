@@ -1,0 +1,11 @@
+/* google-login-styles.css */
+.google-login-button {
+  /* Your custom styles here */
+  background-color: #4285f4;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+.google-login-button:hover {
+  background-color: #357ae8;
+}
